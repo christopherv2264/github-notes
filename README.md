@@ -6,4 +6,4 @@
 
 3. repo: is a project you can make it public or privite its for you to work on and you can add files when you make your repo 
 
-4. comit: 
+4. commit: 
